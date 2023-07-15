@@ -41185,7 +41185,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         p:not(.u-text-variant)
         {
-        font-size: 1.125rem;
+        font-size: 1rem;
         margin-top: 20px;
         margin-bottom: 20px;
         line-height: 1.6;
@@ -41571,9 +41571,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 64px;
+  width: 104px;
   height: 32px;
-  margin: 22px auto 0 0;
+  margin: 2px auto -17px -19px;
 }
 
 .u-header .u-logo-image-1 {
